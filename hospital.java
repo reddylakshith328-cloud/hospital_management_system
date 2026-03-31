@@ -8,7 +8,7 @@ class Array {
     String slots[] = {"09 A.M.-01 P.M.","03 P.M.-07 P.M.","07:30 P.M.-11:30 P.M."};
 
     int patientId[] = {101,102,103};
-    String patientName[] = {"Rahul","Vishnu","Kiran"};
+    String patientName[] = {"akshay","lakshith","chetan"};
     String cause[] = {"Fever","Headache","Stomach Pain"};
 
     void displaySlots() {
